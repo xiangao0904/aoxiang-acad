@@ -19,11 +19,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there. I'am Xiang(Axton) Ao (敖翔). I am an enthusiast of computer graphics. Since my first encounter with the fascinating concepts of graphics in junior high school, I have firmly regarded it as the direction for my lifelong efforts. 
+Hi there. I'am Xiang(Axton) Ao (敖翔). My research interests are computer graphics and 3D computer vision.
 
-At this stage, my research interests mainly focus on the field of 3D generation and stylization.
+At this stage, I'm focus on the field of 3D generation and stylization.
 
-As an interdisciplinary field of science and art, the exquisite integration of science and art has always been the core of my interest. Currently, I am committed to exploring the integration of deep learning with various aspects of graphics, while closely monitoring the research on the adaptability of graphics technology in the film and television production pipeline.
+The exquisite interplay between science and art has long been at the heart of my intellectual pursuits. I am devoted to exploring how computers can be harnessed for editing and creating within media such as film and games.
+
+Computer graphics is awesome!!!
 
 
 <div class="highlight-blocks">
