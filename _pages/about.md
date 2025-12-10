@@ -56,6 +56,12 @@ Computer graphics is awesome!!!
 
 # 🔥 News
 
+- *2025.11*: &nbsp;I will be giving a presentation at Bcon2025 Shenzhen..
+
+- *2025.11*: &nbsp;I received the Silver Award in the final evaluation of Rhino-Bird Science Talent Program(1 Gold Award, 2 Silver Awards).
+
+- *2025.11*: &nbsp;I participated in GAMES2025 as a volunteer.
+
 - *2025.05*: &nbsp;I was selected for the Tencent Rhino-Bird Science Talent Program for High School Students.
 
 - *2025.04*: &nbsp;I participated in <a href="http://china3dv.csig.org.cn/2025/">China3DV2025</a>, which was my first time to attend an academic conference <a href="images/news/China3DV2025.png">as a volunteer</a>.
@@ -76,7 +82,7 @@ Computer graphics is awesome!!!
 
 
 # 🥇 Honors and Awards
-- *2025.05*: &nbsp;Tencent Rhino-Bird Science Talent Program for High School Students.
+- *2025.11  *: &nbsp;Silver Award in the Final Evaluation of Tencent Rhino-Bird Science Talent Program for High School Students(1 Gold Award, 2 Silver Awards).
 
 # 📖 Educations
 - *I am currently completing my high school education and will enter undergraduate studies in the fall of 2026.*
@@ -84,6 +90,7 @@ Computer graphics is awesome!!!
 
 # 🤝 Services
 **Volunteer**
+- *2025.04*: &nbsp;Volunteer of GAMES2025
 - *2025.04*: &nbsp;Student Volunteer of China3DV
 
 <!-- # 💬 Invited Talks
