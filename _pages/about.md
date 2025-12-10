@@ -90,7 +90,7 @@ Computer graphics is awesome!!!
 
 # 🤝 Services
 **Volunteer**
-- *2025.04*: &nbsp;Volunteer of GAMES2025
+- *2025.11*: &nbsp;Volunteer of GAMES2025
 - *2025.04*: &nbsp;Student Volunteer of China3DV
 
 <!-- # 💬 Invited Talks
