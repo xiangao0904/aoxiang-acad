@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiang (Axton) Ao"
+title                    : "Xiang Ao"
 title_separator          : "-"
 subtitle                 : 
-name                     : "Xiang (Axton) Ao"
+name                     : "Xiang Ao"
 description              : "Personal Website"
 url                     : "https://aoxiang.huliawsl.top"
 baseurl                 : ""
@@ -27,7 +27,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiang (Axton) Ao"
+  name             : "Xiang Ao"
   avatar           : "images/android-chrome-512x512-mc.jpg"
   bio              : 
   location         : "Beijing, China"
