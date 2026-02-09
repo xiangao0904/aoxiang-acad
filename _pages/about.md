@@ -83,8 +83,8 @@ Computer graphics is awesome!!!
 
 # 🥇 Honors and Awards
 - *2025.11*: &nbsp;Silver Award in the Final Evaluation of Tencent Rhino-Bird Science Talent Program(1 Gold, 2 Silver Awards were granted in total).
-<!-- 
-# 📖 Educations
+
+<!-- # 📖 Educations
 - *I am currently completing my high school education and will enter undergraduate studies in the fall of 2026.*
 - *2026.09 - ？？*: &nbsp;(Expected) hhhh, GKD University. -->
 
