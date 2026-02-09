@@ -23,7 +23,7 @@ Hi there. I'am Xiang Ao (敖翔). My research interests are computer graphics an
 
 I am dedicated to exploring the creative potential of artificial intelligence and the generation of interactive worlds. My current research focuses on visual media generation.
 
-My research career in computer graphics began while I was still in high school, under the mentorship of <a href="http://geometrylearning.com/">Prof. Lin Gao</a>.
+I am currently a research intern at the Geometry Learning Lab, under the mentorship of <a href="http://geometrylearning.com/">Prof. Lin Gao</a>.
 
 Computer graphics is awesome!!!
 
@@ -82,11 +82,11 @@ Computer graphics is awesome!!!
 
 
 # 🥇 Honors and Awards
-- *2025.11  *: &nbsp;Silver Award in the Final Evaluation of Tencent Rhino-Bird Science Talent Program for High School Students(1 Gold Award, 2 Silver Awards).
-
+- *2025.11*: &nbsp;Silver Award in the Final Evaluation of Tencent Rhino-Bird Science Talent Program(1 Gold, 2 Silver Awards were granted in total).
+<!-- 
 # 📖 Educations
 - *I am currently completing my high school education and will enter undergraduate studies in the fall of 2026.*
-<!-- - *2026.09 - ？？*: &nbsp;(Expected) hhhh, GKD University. -->
+- *2026.09 - ？？*: &nbsp;(Expected) hhhh, GKD University. -->
 
 # 🤝 Services
 **Volunteer**
