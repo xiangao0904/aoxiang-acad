@@ -25,7 +25,7 @@ I am dedicated to exploring the creative potential of artificial intelligence an
 
 I am currently a research intern at the Geometry Learning Lab, under the mentorship of <a href="http://geometrylearning.com/">Prof. Lin Gao</a>.
 
-Computer graphics is awesome!!!
+
 
 
 <div class="highlight-blocks">
